@@ -1,5 +1,9 @@
 # Telegram Timed Bot (GitHub Actions)
 
+<!-- badges:start -->
+[![License](https://img.shields.io/github/license/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/commits/main) [![Python](https://img.shields.io/github/languages/top/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/search?l=Python) [![views](https://hits.sh/github.com/monkey-sking/tg-timed-bot.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/tg-timed-bot)
+<!-- badges:end -->
+
 [简体中文](./README.md) | [English](#english)
 
 这是一个利用 GitHub Actions 定时触发运行的 Telegram 机器人项目，专门用于自动签到或发送定时消息。
