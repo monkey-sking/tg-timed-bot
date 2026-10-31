@@ -1,7 +1,7 @@
 # Telegram Timed Bot (GitHub Actions)
 
 <!-- badges:start -->
-[![License](https://img.shields.io/github/license/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/commits/main) [![Python](https://img.shields.io/github/languages/top/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/search?l=Python) [![views](https://hits.sh/github.com/monkey-sking/tg-timed-bot.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/tg-timed-bot)
+[![License](https://img.shields.io/github/license/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/commits/main) [![Python](https://img.shields.io/github/languages/top/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/search?l=Python) [![views](https://hits.sh/github.com/monkey-sking/tg-timed-bot.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/tg-timed-bot) [![Stars](https://img.shields.io/github/stars/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/tg-timed-bot?style=flat-square)](https://github.com/monkey-sking/tg-timed-bot/network/members)
 <!-- badges:end -->
 
 [简体中文](./README.md) | [English](#english)
